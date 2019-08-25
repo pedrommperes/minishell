@@ -1,12 +1,3 @@
-/*
- *  parse.c
- *  parse
- *
- *  Created by Pedro Sobral on 12/03/01.
- *  Copyright 2012 UFP. All rights reserved.
- *
- */
-
 #include "header.h"
 
 void print_command_list(CMD* root){
